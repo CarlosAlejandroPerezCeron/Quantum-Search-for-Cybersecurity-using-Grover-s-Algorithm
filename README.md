@@ -1,0 +1,1 @@
+This project uses the Grover Algorithm in Qiskit to perform efficient searches in databases, optimizing cybersecurity processes, such as detection of compromised keys and analysis of attack patterns.
